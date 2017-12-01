@@ -1,6 +1,6 @@
 # ImageRecognition
 
-This is a Python facial recongnition project using OpenCV and Tkinter. I have trained the recognizer with a few presidents around the world. 
+This is a Python facial recognition project using OpenCV and Tkinter. I have trained the recognizer with a few presidents around the world. 
 
 I will eventually add more data to make it a comprehensive facial recognition program for the leaders of every country. Make sure to watch the demo of the project in order to understand how it works. 
 
