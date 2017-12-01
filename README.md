@@ -7,4 +7,4 @@ I will eventually add more data to make it a comprehensive facial recognition pr
 Link to demo: https://www.youtube.com/watch?v=M3svwJNl7AI&t=1s
 
 
-I am also adding a video for how to post and fetch image data to firebase. Link to this video: https://www.youtube.com/watch?v=M3svwJNl7AI&t=1s
+I am also adding a video for how to post and fetch image data to firebase. Link to this video: https://www.youtube.com/watch?v=30aY-42A9x0
